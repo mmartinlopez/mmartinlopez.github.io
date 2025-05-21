@@ -2140,8 +2140,6 @@ input, select, textarea {
  			box-shadow: none !important;
 		}
 
-		}
-
 			.image.avatar:before {
 				display: none;
 			}
