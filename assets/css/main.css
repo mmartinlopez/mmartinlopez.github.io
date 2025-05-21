@@ -2596,12 +2596,12 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
- 		 background-image: linear-gradient(to bottom, #bfcfff, #3b2e5a);
- 		 background-color: #3b2e5a; /*#2c3e50; dark blue /* fallback for older browsers */
+ 		 background-image: linear-gradient(to bottom, #bfcfff, #293D4D);
+ 		 background-color: #293D4D; /*#2c3e50; dark blue /* fallback for older browsers */
  		 background-repeat: no-repeat;
   		background-size: cover;
 		background-attachment: scroll,								scroll;
-		color: #3b2e5a; 
+		color: #293D4D; 
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
