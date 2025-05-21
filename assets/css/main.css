@@ -2601,7 +2601,7 @@ input, select, textarea {
  		 background-repeat: no-repeat;
   		background-size: cover;
 		background-attachment: scroll,								scroll;
-		color: rgba(255, 255, 255, 0.5);
+		color: #333;
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
