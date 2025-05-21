@@ -2596,7 +2596,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
- 		 background-image: linear-gradient(to bottom, #AFC5DC, #293D4D);
+ 		 background-image: linear-gradient(to bottom, #AFC5DC, #293D4D); 
  		 background-color: #293D4D; /*#2c3e50; dark blue, #bfcfff light color /* fallback for older browsers */
  		 background-repeat: no-repeat;
   		background-size: cover;
